@@ -13,7 +13,25 @@ After a message was left, agents get Slack notifications. An agent can follow up
 
 ### Scenario for the Live Demo shown at Twilio Signal Conf
 
-![Sccenario](https://cdn.glitch.com/4c3447c6-0721-47ba-9f1c-86ea6b97bcc9%2FScreen%20Shot%202019-08-07%20at%206.48.20%20PM.png?v=1565228933990)
+![Scenario - flow](https://cdn.glitch.com/4c3447c6-0721-47ba-9f1c-86ea6b97bcc9%2FScreen%20Shot%202019-08-07%20at%206.48.20%20PM.png?v=1565228933990)
+
+Tomomi learned about the cat adoption 
+![Secenario - scene 1](https://cdn.glitch.com/4c3447c6-0721-47ba-9f1c-86ea6b97bcc9%2Ftwilio_slack_demo_01.png?v=1566412749431)
+
+Tomomi is calling the adoption center
+![Secenario - scene 2](https://cdn.glitch.com/4c3447c6-0721-47ba-9f1c-86ea6b97bcc9%2Ftwilio_slack_demo_02.png?v=1566412751280)
+
+Jason (a rep at the adoption center) saw the transcription on Slack, and initiates a call on Slack
+![Secenario - scene 3](https://cdn.glitch.com/4c3447c6-0721-47ba-9f1c-86ea6b97bcc9%2Ftwilio_slack_demo_03.png?v=1566412746555)
+
+Twilio connects both parties 
+![Secenario - scene 4](https://cdn.glitch.com/4c3447c6-0721-47ba-9f1c-86ea6b97bcc9%2Ftwilio_slack_demo_04.png?v=1566412747900)
+
+Jason talks to Tomomi
+![Secenario - scene 5](https://cdn.glitch.com/4c3447c6-0721-47ba-9f1c-86ea6b97bcc9%2Ftwilio_slack_demo_05.png?v=1566412750700)
+
+Tomomi confirms to pick up the kitty!
+![Secenario - scene 6](https://cdn.glitch.com/4c3447c6-0721-47ba-9f1c-86ea6b97bcc9%2Ftwilio_slack_demo_06.png?v=1566412750893)
 
 ### App Flow
 
