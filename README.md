@@ -88,7 +88,7 @@ Also, for the convenience (or I am just lazy) I am using a sales rep's number (a
 Set up a webhook for "A CALL COMES IN" at 
 https://www.twilio.com/console/phone-numbers 
 
-The hook should point to this Glitch URL with `/receive-call` route. In this case, the webhook URL is `https://slack-twilio-call-demo-2.glitch.me/receive-call`
+The hook should point to this Glitch URL with `/receive-call` route. The webhook URL looks like `https://example.com/receive-call`
 
 ---
 
