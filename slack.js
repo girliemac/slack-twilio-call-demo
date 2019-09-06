@@ -38,7 +38,7 @@ const sendTranscription = async(data) => {
       type: "section",
       text: {
         type: "mrkdwn",
-        text: `*We just received a call!* \nPhone: <tel://4155551234|(415) 555-1234>\nTranscription:\n_${TranscriptionText}_`
+        text: `*We just received a call!* \nPhone: ${From}\nTranscription:\n_${TranscriptionText}_`
       },
       accessory: {
         type: "button",
